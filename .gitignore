@@ -1,2 +1,12 @@
-##ignore png files because they are regeneratable
-.png
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+# ignore built png files #
+##########################
+*.png
