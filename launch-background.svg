@@ -10,14 +10,4 @@
 	<stop stop-color="#FF3300" offset="1"/>
 </linearGradient>
 <rect x="0" y="0" width="1" height="1" fill="url(#g2)" />
-<path d="M0.30 0.15 H0.70 L0.51 0.5 L0.70 0.85 H0.30 L0.49 0.5 Z" 
-	  fill="url(#g1)"
-	  stroke-width="0.015"
-	  stroke="#FFFFFF"/>
-<path d="M0.26 0.1355 H0.74"
-	  stroke-width="0.015"
-	  stroke="#FFFFFF"/>
-<path d="M0.26 0.8645 H0.74"
-	  stroke-width="0.015"
-	  stroke="#FFFFFF"/>
 </svg>
